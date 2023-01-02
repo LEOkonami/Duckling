@@ -1,0 +1,278 @@
+{
+  "bread": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "*Happy quacking noises*"
+  },
+  "logs": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Here is how to export you Overwolf logs <https://support.overwolf.com/support/solutions/articles/9000176827-how-to-get-your-overwolf-logs>"
+  },
+  "app-issues": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If you have any issues, bugs or feedback about one of our Overwolf apps please look for the right app community and report it there.\nPlease check #apps-discord or <https://support.overwolf.com/support/solutions/articles/9000185804-support-for-3rd-party-apps> to find the right place. "
+  },
+  "capture-issues": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If you are having any capture issues please make sure to check this article first <https://support.overwolf.com/support/solutions/articles/9000181387-common-capture-issues>\nIf you still need help let us know"
+  },
+  "ticket": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Please open a support ticket so we can look into this matter!\nIf you already have an Overwolf account please submit your ticket here:\n<overwolf-support://open-ticket-page>\nHere is how to submit a Support ticket on the Overwolf website: <https://support.overwolf.com/support/tickets/new>"
+  },
+  "overwolf": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Overwolf is a tech framework that allows 3rd party developers to easily build gaming apps in HTML and JavaScript"
+  },
+  "curseforge": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "For all CurseForge related issues please join the CurseForge Discord server where you can find more help on: Common issues, customer modpack builds, troubleshooting and much more:\nhttps://discord.com/invite/curseforge"
+  },
+  "installation": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If you are having trouble installing Overwolf please check out our troubleshooting article here: <https://support.overwolf.com/en/support/solutions/articles/9000177154-overwolf-installation-troubleshooting>"
+  },
+  "not-starting": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If Overwolf isn't launching please try the troubleshooting steps here: <https://support.overwolf.com/en/support/solutions/articles/9000177148-overwolf-not-launching-crashing-on-launch>"
+  },
+  "crashing": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If Overwolf is crashing please try the troubleshooying steps here: <https://support.overwolf.com/en/support/solutions/articles/9000177148-overwolf-not-launching-crashing-on-launch>"
+  },
+  "overlay": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "If the overlay for your Overwolf apps is not showing please try the troubleshooting steps here: <https://support.overwolf.com/en/support/solutions/articles/9000202391-overlay-troubleshooting>"
+  },
+  "mac": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Sadly, Overwolf doesn't have a Mac supported version, supporting Mac OS is not on our roadmap as for now. But CurseForge is supported on MacOS."
+  },
+  "buff": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "For all Buff related issues please join the Buff Discord server where you can find help with common issues, troubleshooting and much more: https://discord.gg/hTAKED9"
+  },
+  "intel": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "For all Intel Gaming Access related issues please join the Intel Gaming Access Discord server where you can find help with common issues, troubleshooting and much more: \nhttps://discord.com/invite/tqMWc3wJDS"
+  },
+  "hardware-accelerated-GPU": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Windows 10's new version, 2004 (build 19041), has introduced a new setting called 'Hardware-accelerated GPU scheduling'.\nCan you please make sure to disable this setting, restart your PC, and try to capture your gameplay again?\n<https://support.overwolf.com/en/support/solutions/articles/9000181387-common-capture-issues#accel>"
+  },
+  "dpi": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Can you please make sure that your desktop DPI settings are set no further than 100%?\nYou can check out this guide on our Help Center and follow the instructions in it. Please remember to log out and back in to your Windows user in order to make sure that the change is applied.\n<https://overwolf.freshdesk.com/en/support/solutions/articles/9000176964-how-to-scale-down-your-dpi#scaledown>"
+  },
+  "dxdiag": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "To understand the problem better, I would like to have a look at your DxDiag info log.\nYou can extract this info by doing the following:\nPress the Windows key + R\nType dxdiag and click on OK. The DirectX Diagnostic Tool window should pop up.\nIn the new window choose Save all information.\nAfter you saved the file, please attach it to your reply here.\nVideo guide: <https://www.hippovideo.io/video/play/VUI7E8-cy7fMzGG30VeRPg==>"
+  },
+  ".net-repair": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "you might have an issue related to your .NET framework.\nPlease visit the following link, download and run the Microsoft .NET repair tool and try again.\n<https://www.microsoft.com/en-us/download/details.aspx?id=30135>"
+  },
+  "direct-download": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Here is a quick setup installer. It comes in a zipped file, so you will first need to extract it by using any program like WinZip, WinRAR or 7-Zip.\n<https://content.overwolf.com/downloads/setup/latest/regular.html>"
+  },
+  "installation-blocked": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Please make sure you don't have any anti-virus or firewall blocking or deleting your Overwolf installer.\nIf you do, please consider disabling it (or white listing the installer) and try again.\nPlease try the troubleshooting steps in these guides as well:\n<https://support.overwolf.com/en/support/solutions/articles/9000177154-overwolf-installation-troubleshooting>\n<https://support.overwolf.com/en/support/solutions/articles/9000199162-installer-file-removed-installer-doesn-t-start-after-uac-message>"
+  },
+  "update": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Please try to update Overwolf to the latest version:\nHead on into the settings menu (wrench icon on the dock or the Settings button when you right-click on the Overwolf icon)\nGo to About\nClick on Check for updates. This will bring up a loading bar - allow it to run, it may take a few moments.\nYou should be updated to the latest version"
+  },
+  "manual-update": {
+    "id": 1,
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Please try to update Overwolf manually by following these steps:\nOpen Overwolf's installation directory (default: C:\\Program Files (x86)\\Overwolf)\nRight-click the file 'OverwolfUpdater.exe' and select 'Run as administrator'\nAccept the UAC permission request\nIt may appear as if nothing is happening, but you should wait a few seconds\nRestart Overwolf"
+  },
+  "outplayed": {
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "This is the Overwolf Discord, Outplayed has their own server linked in their app here- did you have any issue finding it?\nhttps://discord.gg/hcPhdpuFBZ",
+    "file": "https://content.overwolf.com/support-freshdesk/Discord/GotoOutplayed.png"
+  }
+}
