@@ -274,5 +274,16 @@
     ],
     "text": "This is the Overwolf Discord, Outplayed has their own server linked in their app here- did you have any issue finding it?\nhttps://discord.gg/hcPhdpuFBZ",
     "file": "https://content.overwolf.com/support-freshdesk/Discord/GotoOutplayed.png"
+  },
+  "troubleshooter": {
+    "roleIds": [
+      "409669198017462274",
+      "713039287762944081",
+      "409669198017462274",
+      "577069849931546624",
+      "845727331180216401",
+      "310745918615977986"
+    ],
+    "text": "Please try out our troubleshooter!\n<https://content.overwolf.com/ow-troubleshooter/Overwolf-Troubleshooter.exe>"
   }
 }
